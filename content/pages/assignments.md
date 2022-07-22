@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the two major assignments in the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a78f959a-9664-475f-0f17-26295f45cc3d
 ---
