@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: A photograph of a humanoid robot.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Robot (thumbnail)
 uid: 577e1eba-2aee-1503-c364-98d57ff3289d
 ---
 Photo of a robot. (Image courtesy of the Pacific Northwest National Laboratory.)
-
