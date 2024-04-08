@@ -108,11 +108,11 @@ Philosophy of Science I: From Logical Positivism to Antipositivism
 
 Galison, Peter. "Aufbau/Bauhaus: Logical Positivism and Architectural Modernism." _Critical Inquiry_ 16, no. 4 (1990): 709-752.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262023153) Popper, Karl. 1934. Scientific Method & Falsificationism versus Conventionalism, from The Logic of Scientific Discovery. In [_The Philosophy of Science_](https://mitpress.mit.edu/9780262023153). Edited by Richard Boyd, Philip Gasper, and J. D. Trout. Cambridge, MA: MIT Press, 1991, pp. 99-112. ISBN: 9780262023153.
+{{% resource_link "f90d0f0a-96c2-4964-ad8c-e9526779fd09" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Popper, Karl. 1934. Scientific Method & Falsificationism versus Conventionalism, from The Logic of Scientific Discovery. In {{% resource_link "f90d0f0a-96c2-4964-ad8c-e9526779fd09" "_The Philosophy of Science_" %}}. Edited by Richard Boyd, Philip Gasper, and J. D. Trout. Cambridge, MA: MIT Press, 1991, pp. 99-112. ISBN: 9780262023153.
 
 Fleck, Ludwig. 1935. "Epistemological Conclusions from the Established History of a Concept." In _Genesis and Development of a Scientific Fact_. Translated from the German by Fred Bradley and Thaddeus J. Trenn. Chicago, IL: University of Chicago Press, 1981, pp. 20-51. ISBN: 9780226253251.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262023153) Kuhn, Thomas. 1962, 1970. The Nature and Necessity of Scientific Revolutions, from The Structure of Scientific Revolutions. In [_The Philosophy of Science_](https://mitpress.mit.edu/9780262023153). Edited by Richard Boyd, Philip Gasper, and J. D. Trout. Cambridge, MA: MIT Press, 1991, pp. 148-157. ISBN: 9780262023153.
+{{% resource_link "f90d0f0a-96c2-4964-ad8c-e9526779fd09" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kuhn, Thomas. 1962, 1970. The Nature and Necessity of Scientific Revolutions, from The Structure of Scientific Revolutions. In {{% resource_link "f90d0f0a-96c2-4964-ad8c-e9526779fd09" "_The Philosophy of Science_" %}}. Edited by Richard Boyd, Philip Gasper, and J. D. Trout. Cambridge, MA: MIT Press, 1991, pp. 148-157. ISBN: 9780262023153.
 
 Feyerabend, Paul. 1993. "Introduction to the Chinese Edition, Introduction, 1-3." In _Against Method._ 3rd ed. London, UK: Verso (First Edition, 1993), pp. 1-4, and 9-32. ISBN: 9780860914815.
 
@@ -236,7 +236,7 @@ Sociology of Scientific Knowledge III: Institutions and Culture
 {{< tdopen >}}
 
 
-Weber, Max. 1918. "[Science as a Vocation](http://www.wisdom.weizmann.ac.il/~oded/weber-sci.html)." In _Max Weber: Essays in Sociology_. Translated from the German by H. H. Gerth and C. Wright Mills. New York, NY: Oxford University Press, 1946, pp. 129-156.
+Weber, Max. 1918. "{{% resource_link "7e391f3f-3989-4446-9d45-0a2948bdedb4" "Science as a Vocation" %}}." In _Max Weber: Essays in Sociology_. Translated from the German by H. H. Gerth and C. Wright Mills. New York, NY: Oxford University Press, 1946, pp. 129-156.
 
 Merton, Robert. 1942. "The Normative Structure of Science." In _The Sociology of Science: Theoretical and Empirical Investigations_. Chicago, IL: University of Chicago Press, 1973, pp. 265-278. ISBN: 9780226520919.
 
@@ -344,7 +344,7 @@ Jacobson, Matthew Frye. "Whiteness and Science, from "Free White Persons" in the
 
 Haraway, Donna. "Universal Donors in a Vampire Culture, Or It's All in the Family: Biological Kinship Categories in the Twentieth-Century United States." In _Uncommon Ground: Toward Reinventing Nature._ Edited by William Cronon. New York, NY: Norton, 1995, pp. 321-366. ISBN: 9780393038729.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522953) Bowker, Geoffrey C., and Susan Leigh Star. "The Case of Race Classification and Reclassification under Apartheid." In [_Sorting Things Out: Classification and Its Consequences_](https://mitpress.mit.edu/9780262522953). Cambridge, MA: MIT Press, 2000, pp. 60-64, and 195-225. ISBN: 9780262522953.
+{{% resource_link "f9eaf7f1-ff75-4c7b-afe6-cb7bf579bd82" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bowker, Geoffrey C., and Susan Leigh Star. "The Case of Race Classification and Reclassification under Apartheid." In {{% resource_link "f9eaf7f1-ff75-4c7b-afe6-cb7bf579bd82" "_Sorting Things Out: Classification and Its Consequences_" %}}. Cambridge, MA: MIT Press, 2000, pp. 60-64, and 195-225. ISBN: 9780262522953.
 
 Stepan, Nancy Leys, and Sander L. Gilman. "Appropriating the Idioms of Science: The Rejection of Scientific Racism." In _The "Racial" Economy of Science: Toward a Democratic Future._ Edited by Sandra Harding. Bloomington, IN: Indiana University Press, 1993, pp. 170-193. ISBN: 9780253208101.
 
@@ -372,7 +372,7 @@ Biosociality
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780942299298) Rabinow, Paul. "Artificiality and Enlightenment: From Sociobiology to Biosociality." In [_Zone 6: Incorporations_](https://mitpress.mit.edu/9780942299298). Edited by Jonathan Crary, and Sanford Kwinter. Canada: Bradbury Tamblyn and Boorne Ltd. Cambridge, MA: MIT Press, 1992, pp. 234-252. ISBN: 9780942299298.
+{{% resource_link "653bcab0-e825-4467-9147-13dc80862ffd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rabinow, Paul. "Artificiality and Enlightenment: From Sociobiology to Biosociality." In {{% resource_link "653bcab0-e825-4467-9147-13dc80862ffd" "_Zone 6: Incorporations_" %}}. Edited by Jonathan Crary, and Sanford Kwinter. Canada: Bradbury Tamblyn and Boorne Ltd. Cambridge, MA: MIT Press, 1992, pp. 234-252. ISBN: 9780942299298.
 
 Heath, Deborah. "Bodies, Antibodies, and Modest Interventions." In _Cyborgs and Citadels: Anthropological Interventions in Emerging Sciences._ Edited by Gary Lee Downey, and Joseph Dumit. Santa Fe, NM: School of American Research Press, 1998, pp. 67-82. ISBN: 9780933452978.
 
