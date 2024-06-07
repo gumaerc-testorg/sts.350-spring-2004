@@ -5,8 +5,7 @@ file: /courses/sts-350-social-study-of-science-and-technology-spring-2004/577e1e
 file_size: 11627
 file_type: image/jpeg
 image_metadata:
-  caption: "Robot. (Image courtesy of the\_{{% resource_link \"1682f138-f648-4bd9-a8f1-eb7fd24c8f11\"\
-    \ \"Pacific Northwest National Laboratory\" %}}.)"
+  caption: "Robot. (Image courtesy of the\_[Pacific Northwest National Laboratory](http://www.pnl.gov/).)"
   credit: ''
   image-alt: A photograph of a humanoid robot.
 learning_resource_types: []
