@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of a robot. (Image courtesy of the Pacific Northwest National Laboratory.)
-file: /courses/sts-350-social-study-of-science-and-technology-spring-2004/577e1eba2aee1503c36498d57ff3289d_sts-350s04-th.jpg
+file: /ol-ocw-studio-app/courses/sts-350-social-study-of-science-and-technology-spring-2004/577e1eba2aee1503c36498d57ff3289d_sts-350s04-th.jpg
 file_size: 11627
 file_type: image/jpeg
 image_metadata:
