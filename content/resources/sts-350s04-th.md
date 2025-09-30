@@ -5,7 +5,8 @@ file: /ol-ocw-studio-app/courses/sts-350-social-study-of-science-and-technology-
 file_size: 11627
 file_type: image/jpeg
 image_metadata:
-  caption: "Robot. (Image courtesy of the\_[Pacific Northwest National Laboratory](http://www.pnl.gov/).)"
+  caption: "Robot. (Image courtesy of the\_{{% resource_link \"810589a8-24a6-4de8-a55a-84435bbaa6cb\"\
+    \ \"Pacific Northwest National Laboratory\" %}}.)"
   credit: ''
   image-alt: A photograph of a humanoid robot.
 learning_resource_types: []
